@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="topic_ylq_dnl_cyb" path=""/>
+   <appContext helpID="concept_total" path="concept_total.html"/>
+   <appContext helpID="curtain_instruction_topic"
+               path="curtain_instruction_topic.html"/>
+   <appContext helpID="glossentry_test" path="screen1_glossentry.html"/>
+   <appContext helpID="screen2_glossentry" path="screen2_glossentry.html"/>
+   <appContext helpID="diff_scr_work_tppic" path="diff_scr_work_tppic.html"/>
+   <appContext helpID="projection_task" path="projection_task.html"/>
+   <appContext helpID="projection_task2" path="projection_task2.html"/>
+   <appContext helpID="failed_screen_tbst" path="failed_screen_tbst.html"/>
+   <appContext helpID="computer_on" path="computer_on.html"/>
+   <appContext helpID="computer_origin" path="computer_origin.html"/>
+   <appContext helpID="bring_computer" path="bring_computer.html"/>
+   <appContext helpID="microphone" path="microphone.html"/>
+   <appContext helpID="mobile_microphone_task" path="mobile_microphone_task.html"/>
+   <appContext helpID="stationary_microphone_task"
+               path="stationary_microphone_task.html"/>
+</map>

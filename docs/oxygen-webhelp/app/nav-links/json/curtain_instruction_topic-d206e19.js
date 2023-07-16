@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"curtain_instruction_topic-d206e19":{"topics":[{"title":"投影幕布(Projection screen)","shortdesc":"<p class=\"shortdesc\">投影幕布是用在电影、办公、家庭影院、大型会议等场合上的，用来显示图像、视频文件的工具。分很多种规格尺寸。<\/p>","href":"concept_total.html","attributes":{"data-id":"concept_total"},"menu":{"hasChildren":false},"tocID":"concept_total-d206e28","next":"concept_total-d206e28"}]}};
