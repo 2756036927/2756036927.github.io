@@ -9,7 +9,6 @@
    <appContext helpID="diff_scr_work_tppic" path="diff_scr_work_tppic.html"/>
    <appContext helpID="projection_task" path="projection_task.html"/>
    <appContext helpID="projection_task2" path="projection_task2.html"/>
-   <appContext helpID="failed_screen_tbst" path="failed_screen_tbst.html"/>
    <appContext helpID="computer_on" path="computer_on.html"/>
    <appContext helpID="computer_origin" path="computer_origin.html"/>
    <appContext helpID="bring_computer" path="bring_computer.html"/>
@@ -17,4 +16,29 @@
    <appContext helpID="mobile_microphone_task" path="mobile_microphone_task.html"/>
    <appContext helpID="stationary_microphone_task"
                path="stationary_microphone_task.html"/>
+   <appContext helpID="screen_sharing_topic" path="screen_sharing_topic.html"/>
+   <appContext helpID="screen_share_concept" path="screen_share_concept.html"/>
+   <appContext helpID="hardware_connect_topic" path="hardware_connect_topic.html"/>
+   <appContext helpID="windows_share_task" path="windows_share_task.html"/>
+   <appContext helpID="mac_share_task" path="mac_share_task.html"/>
+   <appContext helpID="hdmi_topic" path="hdmi_topic.html"/>
+   <appContext helpID="hdmi_connect_task" path="hdmi_connect_task.html"/>
+   <appContext helpID="mobile_devices_topic" path="mobile_devices_topic.html"/>
+   <appContext helpID="android_share_task" path="android_share_task.html"/>
+   <appContext helpID="windows_share_task_0" path="windows_share_task_0.html"/>
+   <appContext helpID="windows_share_task_0" path="ios_share_task.html"/>
+   <appContext helpID="mac_share_task_0" path="mac_share_task_0.html"/>
+   <appContext helpID="close_topic" path="close_topic.html"/>
+   <appContext helpID="close_system_task" path="close_system_task.html"/>
+   <appContext helpID="faq_topic" path="faq_topic.html"/>
+   <appContext helpID="failed_screen_tbst" path="failed_screen_tbst.html"/>
+   <appContext helpID="hardware_screen_failure_tbst"
+               path="hardware_screen_failure_tbst.html"/>
+   <appContext helpID="no_port_trst" path="no_port_trst.html"/>
+   <appContext helpID="no_hdmi_prot_tbst" path="no_hdmi_prot_tbst.html"/>
+   <appContext helpID="common_issue" path="picture_trouble.html"/>
+   <appContext helpID="common_issues_2_dita" path="light_trouble.html"/>
+   <appContext helpID="common_issue5" path="sound_trouble.html"/>
+   <appContext helpID="unsolved" path="unsolved.html"/>
+   <appContext helpID="device_problem" path="device_problem.html"/>
 </map>

@@ -2,62 +2,154 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
       <loc/>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>concept_total.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>curtain_instruction_topic.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>screen1_glossentry.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>screen2_glossentry.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>diff_scr_work_tppic.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>projection_task.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>projection_task2.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
-   </url>
-   <url>
-      <loc>failed_screen_tbst.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>computer_on.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>computer_origin.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>bring_computer.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>microphone.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>mobile_microphone_task.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
    <url>
       <loc>stationary_microphone_task.html</loc>
-      <lastmod>2023-07-16T01:02:49Z</lastmod>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>screen_sharing_topic.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>screen_share_concept.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>hardware_connect_topic.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>windows_share_task.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>mac_share_task.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>hdmi_topic.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>hdmi_connect_task.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>mobile_devices_topic.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>android_share_task.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>windows_share_task_0.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>ios_share_task.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>mac_share_task_0.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>close_topic.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>close_system_task.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>faq_topic.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>failed_screen_tbst.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>hardware_screen_failure_tbst.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>no_port_trst.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>no_hdmi_prot_tbst.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>picture_trouble.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>light_trouble.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>sound_trouble.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>unsolved.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
+   </url>
+   <url>
+      <loc>device_problem.html</loc>
+      <lastmod>2023-08-06T12:46:31Z</lastmod>
    </url>
 </urlset>

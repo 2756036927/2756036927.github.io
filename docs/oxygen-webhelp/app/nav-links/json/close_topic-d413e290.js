@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"close_topic-d413e290":{"topics":[{"title":"关闭教室多媒体设备","shortdesc":"<p class=\"shortdesc\">教室内需要关闭的教学设备有投影仪、幕布机、麦克风、电脑，可使用面板对投影仪、固定式麦克风和电脑进行一键关机，移动式麦克风与幕布机需要使用者手动关闭。<\/p>","href":"close_system_task.html","attributes":{"data-id":"close_system_task"},"menu":{"hasChildren":false},"tocID":"close_system_task-d413e299","topics":[]}]}};
